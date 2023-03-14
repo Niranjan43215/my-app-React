@@ -1,3 +1,5 @@
 sudo su
 sudp apt get install
-yum is for ubuntu and apt in for linux 
+yum is for ubuntu and apt in for linuxI 
+I am trying to learn git and practice git
+
