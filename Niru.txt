@@ -1,2 +1,3 @@
 sudo su
-sudp apt get install 
+sudp apt get install
+yum is for ubuntu and apt in for linux 
